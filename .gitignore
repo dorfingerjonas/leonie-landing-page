@@ -355,3 +355,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,jekyll,windows,webstorm,database,phpstorm,jetbrains,intellij+all,visualstudiocode
+
+# "Skizzen & Konzept" directory
+Skizzen & Konzept
